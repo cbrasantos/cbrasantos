@@ -1,6 +1,5 @@
-# Cleber
 <center>
 
-![Cleber github stats](https://github-readme-stats.vercel.app/api?username=cbrasantos&show_icons=true)
+![Cleber - Github Stats](https://github-readme-stats.vercel.app/api?username=cbrasantos&theme=react&show_icons=true )
 
 </center>
