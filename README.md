@@ -1,8 +1,9 @@
 ## Olá! Meu nome é Cleber, sou um Analista de Sistemas e Futuro Analista DevOps/SRE
-<center>
-![Cleber - Github Stats](https://github-readme-stats.vercel.app/api?username=cbrasantos&theme=react&show_icons=true&cache_seconds=86400)
-</center>
-
+<div align="center">
+  <a href="https://github.com/CarlosDaniel3">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbrasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbrasantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
