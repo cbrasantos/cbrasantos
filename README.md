@@ -7,12 +7,14 @@
   <a href="https://github.com/cbrasantos/"><img src="https://img.shields.io/github/followers/cbrasantos?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/cbrasantos?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 </p>
-    
+
+## GitHub Stats
 <div align="center">
-    <a href="https://github.com/cbrasantos">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbrasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbrasantos&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/cbrasantos">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cbrasantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbrasantos&layout=compact&langs_count=7&theme=dark&hide_title=true&hide=stars"/>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
